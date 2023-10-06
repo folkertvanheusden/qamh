@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "eurocad")(type "KiCad")(uri "${KIPRJMOD}/libs/eurocad")(options "")(descr ""))
+  (lib (name "4ms_Connector")(type "KiCad")(uri "${KIPRJMOD}/libs/4ms-kicad-lib/footprints/4ms_Connector.pretty")(options "")(descr ""))
 )

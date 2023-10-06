@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "eurocad")(type "Legacy")(uri "${KIPRJMOD}/libs/eurocad/eurocad.lib")(options "")(descr ""))
+  (lib (name "4ms_Connector")(type "KiCad")(uri "${KIPRJMOD}/libs/4ms-kicad-lib/symbols/4ms_Connector.kicad_sym")(options "")(descr ""))
 )
