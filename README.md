@@ -10,8 +10,7 @@ I did *not* look at the original PCB, only at the documentation I found on the w
 
 The design should be compatible with the original Grains module and should be able to run the original software without modifications.
 
-This design is released under the MIT license. I wanted to put it in "public domain" but that's problematic in some parts of the world.
-Well, do with it whatever you want.
+This design is released under the CC0 license, but do with it whatever you want.
 
 When cloning this repo, use "--recurse-submodules" as it contains submodules.
 
