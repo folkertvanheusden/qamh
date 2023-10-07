@@ -8,6 +8,8 @@ I found a modification on the web where someone put a piezo on pin 6 of the Ardu
 
 I did *not* look at the original PCB, only at the documentation I found on the web ( https://www.thonk.co.uk/shop/ginkosynthese-grains-full-diy-kit/ ).
 
+The design should be compatible with the original Grains module and should be able to run the original software without modifications.
+
 This design is released under the MIT license. I wanted to put it in "public domain" but that's problematic in some parts of the world.
 Well, do with it whatever you want.
 
