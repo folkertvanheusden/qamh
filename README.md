@@ -17,5 +17,9 @@ When cloning this repo, use "--recurse-submodules" as it contains submodules.
 
 Please note: this is work in progress. At the point of writing this (October 7, 2023) the design was not tested at all.
 
+![front](imgs/qamh_0.1_front.jpg "front")
+
+![back](imgs/qamh_0.1_back.jpg "back")
+
 
 Folkert van Heusden <mail@vanheusden.com>
