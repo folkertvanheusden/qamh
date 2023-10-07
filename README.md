@@ -13,6 +13,8 @@ The design should be compatible with the original Grains module and should be ab
 This design is released under the MIT license. I wanted to put it in "public domain" but that's problematic in some parts of the world.
 Well, do with it whatever you want.
 
+When cloning this repo, use "--recurse-submodules" as it contains submodules.
+
 Please note: this is work in progress. At the point of writing this (October 7, 2023) the design was not tested at all.
 
 
