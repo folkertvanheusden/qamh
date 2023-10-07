@@ -4,6 +4,14 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Qamh")
+    (date "2023-10-07")
+    (rev "0.1")
+    (company "www.vanheusden.com")
+    (comment 1 "https://github.com/folkertvanheusden/qamh/")
+  )
+
   (lib_symbols
     (symbol "Connector:AudioJack2" (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 0 8.89 0)
