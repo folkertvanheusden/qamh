@@ -4,3 +4,6 @@
 [submodule "libs/4ms-kicad-lib"]
 	path = libs/4ms-kicad-lib
 	url = https://github.com/4ms/4ms-kicad-lib.git
+[submodule "libs/arduino-kicad-library"]
+	path = libs/arduino-kicad-library
+	url = https://github.com/Alarm-Siren/arduino-kicad-library
