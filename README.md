@@ -14,9 +14,9 @@ The design should be compatible with the original Grains module and should be ab
 
 This design is released under the CC0 license, but do with it whatever you want.
 
-When cloning this repo, use "--recurse-submodules" as it contains submodules.
+Clone this repo using "--recurse-submodules" as it contains submodules.
 
-Please note: this is work in progress. At the point of writing this (October 7, 2023) the design was not tested only a bit (on a breadboard).
+Please note: this is work in progress. At the point of writing this (October 7, 2023) the design was not tested.
 
 ![front](imgs/qamh_0.1_front.jpg "front")
 
