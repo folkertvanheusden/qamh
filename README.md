@@ -7,7 +7,7 @@ It is not a literal conversion: some features were added and the layout is diffe
 
 This device is an Eurorack/Doepfer-A100 modulair-synthesizer module. It allows you to upload your own firmware and then produce whatever effect you want it to do.
 
-I found a modification on the web where someone put a piezo on pin 6 of the Arduino, for that I added a header (GND + D6).
+I found a modification on the web where someone put a piezo on pin 6 of the Arduino (Nano), for that I added a header (GND + D6).
 
 I did *not* look at the original PCB, only at the documentation I found on the web ( https://www.thonk.co.uk/shop/ginkosynthese-grains-full-diy-kit/ ).
 
