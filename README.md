@@ -19,6 +19,10 @@ Clone this repo using "--recurse-submodules" as it contains submodules.
 
 Please note: this is work in progress. At the point of writing this (October 7, 2023) the design was not tested.
 
+Modifications:
+* D2 can be connected to a button
+* D6 can be connected to a piezo buzzer
+
 ![front](imgs/qamh_0.1_front.jpg "front")
 
 ![back](imgs/qamh_0.1_back.jpg "back")
