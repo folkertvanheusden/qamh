@@ -1,6 +1,8 @@
 qamh
 ----
 
+NOTE: do not use older than version 0.3!
+
 NOTE: THE NOTCH OF THE POWERCONNECTOR (only the notch) IS ON THE WRONG SIDE!!!
 
 Due to the unavailability for a long time already of the Grains module, I decided to recreate the device.
