@@ -1,6 +1,8 @@
 qamh
 ----
 
+NOTE: THE NOTCH OF THE POWERCONNECTOR (only the notch) IS ON THE WRONG SIDE!!!
+
 Due to the unavailability for a long time already of the Grains module, I decided to recreate the device.
 This repo contains the Kicad schematics and PCB design.
 It is not a literal conversion: some features were added and the layout is different.
