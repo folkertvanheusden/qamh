@@ -4,7 +4,7 @@ void setup() {
 	pinMode(11, OUTPUT);
 }
 
-unsigned long t = 0;
+int freq = 1;
 
 void loop() {
 	Serial.print(analogRead(A0));
@@ -15,11 +15,7 @@ void loop() {
 	Serial.print('\t');
 	Serial.println(analogRead(A3));
 
-	unsigned long now = millis();
+	tone(11, freq++);
 
-	if (now - t >= 100) {
-		t = now;
-
-		tone(11, (rand() % 1000) + 100);
-	}
+	freq &= 4095;
 }
