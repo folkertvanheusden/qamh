@@ -4,6 +4,8 @@ void setup() {
 	pinMode(11, OUTPUT);
 }
 
+unsigned long t = 0;
+
 void loop() {
 	Serial.print(analogRead(A0));
 	Serial.print('\t');
@@ -13,5 +15,11 @@ void loop() {
 	Serial.print('\t');
 	Serial.println(analogRead(A3));
 
-	digitalWrite(11, !digitalRead(11));
+	unsigned long now = millis();
+
+	if (now - t >= 100) {
+		t = now;
+
+		tone(11, (rand() % 1000) + 100);
+	}
 }
